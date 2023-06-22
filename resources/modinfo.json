@@ -1,0 +1,8 @@
+{
+    "type": "code",
+    "modid": "everysoilunstable",
+    "name": "Every Soil Unstable",
+    "description": "Every vanilla and modded block with Soil, Gravel or Sand material now has unstable falling behavior.",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
